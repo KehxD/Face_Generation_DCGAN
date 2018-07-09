@@ -1,6 +1,6 @@
-# First Neural Network Project
+# Face Generation with Deep Convolutional Generative Adversarial Networks
 
-This is the first project of a series of five projects for the Deep Learning Foundations Nanodegree.
+This is the last project of a series of five projects for the Deep Learning Foundations Nanodegree.
 
 ## Project Description
 
