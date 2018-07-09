@@ -12,17 +12,17 @@ The skeleton for the project with some instructions were given by Udacity. Thus,
 
 This quick guide uses Anaconda for a simple way to execute the program. For most people, the required packages will already be installed and the program can be run directly. None the less, here a working setup.
 
-'''
+```
 conda create --name face\_gen python=3.6
 source active face\_gen
 conda install numpy matplotlib pandas glob tensorflow distutils
 jupyter notebook dlnd\_face\_generation.ipynb
-'''
+```
 
 ## Example output
 
-![](https://github.com/KehxD/Face_Generation_DCGAN/image_examples/face_gen_example.png)
-![](https://github.com/KehxD/Face_Generation_DCGAN/image_examples/mnist_gen_example.png)
+![](https://github.com/KehxD/Face_Generation_DCGAN/blob/master/image_examples/face_gen_example.png)
+![](https://github.com/KehxD/Face_Generation_DCGAN/blob/master/image_examples/mnist_gen_example.png)
 
 ## Additional Notes
 
